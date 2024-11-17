@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Zhejiang University, 2019-2025
+* B.B.A Nanjing Univerisyt of Chinese Medicine, 2015-2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Yunxian Yu Group: Research Assistant
+  * Zhejiang University
+  * Duties includes: Collborate with group members to accomplish given goal
+  * Supervisor: Yunxian Yu 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Zhi Chen Group: Research Assistant
+  * Zhejiang University
+  * Duties includes: Collborate with group members to accomplish given goal
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Linux
+  * data cleaning for bioinfomatic analysis
+  * Build server including SQL MongoDB 
+* Office
 
 Publications
 ======
@@ -52,7 +44,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
